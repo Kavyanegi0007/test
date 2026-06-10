@@ -1,0 +1,21 @@
+[
+    {
+        "entity_name": "Rick Caruso",
+        "client_profile": {
+            "name": "Rick Caruso",
+            "category": "Business Executive / Real Estate Developer",
+            "industry": "Real Estate Development; Retail & Mixed-Use Property Development",
+            "sensitivities": ["USC George Tyndall sexual abuse scandal cover-up - promised to release internal O'Melveny & Myers investigation report but withheld it; faced public accusations from victims' advocates and Gloria Allred of breaking promises and evading accountability (2020-2022, resurfaces periodically)",
+                            "Volatile political positioning and party affiliation changes - switched between Republican, Democratic, and 'decline to state' four times over 11 years (2011-2022), creating perception of political opportunism and inconsistency",
+                            "2022 LA mayoral campaign spending and defeat - spent $100+ million of personal funds on unsuccessful bid against Karen Bass, creating questions about undue political influence and excessive self-funding",
+                            "Recent political ambition volatility - announced he would NOT run for office Jan 16, 2026, then reconsidered Feb 5, 2026 after Palisades Fire report allegations against Bass, then confirmed again he would NOT run Feb 6, 2026 (shows inconsistent messaging and credibility issues)",
+                            "Regulatory and CEQA litigation exposure - his Caruso mall filed CEQA suit in 2025 to block $1 billion Television City project; previously funded $12M voter initiative to bypass CEQA in Carlsbad; creates perception of using legal system selectively",
+                            "Documented contributions to LA city officials - 2016 LA Times report of $476K+ given by Caruso, affiliates and family to LA city officials over 5-year period, during which City Hall approved numerous Caruso building projects (pay-to-play narrative risk)",
+                            "Palisades Fire narrative control - hired private firefighters to protect Palisades Village while community burned (Jan 2025); created Steadfast LA nonprofit and positioned himself as savior/alternative to Mayor Bass; risk of backlash over privilege and perceived self-promotion during crisis",
+                            "USC Board voting member status - still listed as voting member as of May 2026 despite resigning as chair in Feb 2022; continued association with institution facing ongoing sexual abuse accountability questions"
+            ],
+            "additional_context": "Rick Caruso is founder and executive chair of Caruso, one of the largest private real estate companies in the country, best known for its high-end retail centers. In January 2026, Caruso announced he is officially out of the race for LA mayor and California governor. However, he indicated in February 2026 that he is reconsidering his decision not to run for office due to reports regarding Mayor Karen Bass and the Palisades Fire. His reputation is complicated by criticism for his handling of the George Tyndall USC sexual abuse scandal as former board chair, creating ongoing accountability vulnerabilities. Caruso launched Steadfast LA in response to wildfires that devastated the county in January 2025, positioning himself as an alternative power center to city government.\nhigh"
+        },
+        "client_id": "poc-client-001"
+    }
+]
